@@ -1,8 +1,9 @@
 ---
-frontPageHeading: Self-Paced Video-Taped In Depth Interviews
-menuButtonText: Learn More
-buttonText: Start Your Learning Journey
+frontPageHeading: Hello Julia
+menuButtonText: Go to OSEC.IJM.ORG
+buttonText: Start the Training
 title: VIDI Self Paced Training Homepage
 FrontPageImage: "/ijm.jpg"
-TrainingLocation: ""
+TrainingLocation: ''
+
 ---
